@@ -1,0 +1,6 @@
+Cleaned a dataset of 1000+ student records using NumPy and Pandas
+Handled missing values, inconsistent entries, and invalid data
+Converted data types (string → numeric, datetime formatting)
+Standardized categorical data (Gender, City)
+Removed outliers and corrected erroneous values
+Prepared dataset for further analysis and modeling
